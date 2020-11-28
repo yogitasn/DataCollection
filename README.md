@@ -28,6 +28,7 @@
 ## Pipeline
 ![alt text](images/DataPipeline.png "workflow")
 
+
 ## How to run DataCollection.py
 
 * To download subset of the dataset (Last 48 hours)
