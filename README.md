@@ -1,4 +1,4 @@
-# PLOPS: Parking Lot Occupancy Project in Seattle
+# Parking Lot Occupancy Project in Seattle
 
 * **Where can I find a parking spot near me?**
 * **Where is a street/block to find a parking spot right now? or in 1 hour?**
@@ -26,7 +26,7 @@
 ![alt text](images/TransactionData.png "workflow")
 
 ## Pipeline
-![alt text](images/DataPipeline.jpg "workflow")
+![alt text](images/DataPipeline.png "workflow")
 
 ## How to run DataCollection.py
 
