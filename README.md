@@ -25,9 +25,6 @@
 
 ![alt text](images/TransactionData.png "workflow")
 
-## Pipeline
-![alt text](images/DataPipeline.png "workflow")
-
 
 ## How to run DataCollection.py
 
