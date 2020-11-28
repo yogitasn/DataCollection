@@ -1,4 +1,4 @@
-""" import requests
+import requests
 import shutil
 import argparse
 import os
@@ -29,6 +29,8 @@ DEBUG = False
         print("Batch process finished.")
     
 def run():
+    # Used ArgumentParser to pass arguments debug or file in command line
+
     parser = argparse.ArgumentParser()
     parser.add_argument("--debug", help="debug mode, loads small test file.", action="store_true")
     parser.add_argument("--file", help="file name to process")
@@ -44,5 +46,4 @@ def run():
 
 run()
 
-    # Used ArgumentParser to pass arguments debug or file in command line
-     """
+     
